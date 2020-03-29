@@ -3,12 +3,12 @@ import Head from 'next/head';
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>Joshua Belmont</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main>
-      <h1 className="title">Welcome to my website!</h1>
+      <h1 className="title">Welcome to my Website!</h1>
       <p className="description">
         This is a work in progress. A place for me to practice Web Dev and play
         with new technologies!
